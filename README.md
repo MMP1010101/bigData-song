@@ -49,3 +49,14 @@ Vea la carpeta `/examples` para casos de uso comunes y sus resultados.
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abra un issue antes de enviar un pull request.
+
+## Agradecimientos
+
+Quiero expresar mi sincero agradecimiento a:
+
+- **GitHub Copilot**: Por su invaluable asistencia en el desarrollo de este proyecto, ayudando con la generación de código y soluciones técnicas.
+
+- **Claude 3.7 Sonnet**: Por su colaboración en la creación de este README y otros aspectos de documentación del proyecto.
+
+Estas herramientas de IA han sido fundamentales para agilizar el proceso de desarrollo y mejorar la calidad del proyecto.
+
